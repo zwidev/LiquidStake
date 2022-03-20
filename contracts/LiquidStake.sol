@@ -1,4 +1,4 @@
-// reset by conrad zen
+// reset by conrad zen Copyright zwi
 pragma solidity ^0.6.6;
 
 import 'OpenZeppelin/openzeppelin-contracts@3.0.0/contracts/token/ERC721/ERC721.sol';
